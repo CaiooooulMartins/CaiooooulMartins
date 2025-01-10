@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Caio Martins 🤓🤓</h1>
+<h1 align="center">Hi 👋, I'm Caio Martins 🤓</h1>
 <h3 align="center">A passionate in data science and data engineering from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiooooulmartins&label=Profile%20views&color=0e75b6&style=flat" alt="caiooooulmartins" /> </p>
