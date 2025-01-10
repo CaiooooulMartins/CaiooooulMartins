@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Caio Martins</h1>
-<h3 align="center">A passionate data science and data engineering from Brazil</h3>
+<h1 align="center">Hi 👋, I'm Caio Martins 🤓🤓</h1>
+<h3 align="center">A passionate in data science and data engineering from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiooooulmartins&label=Profile%20views&color=0e75b6&style=flat" alt="caiooooulmartins" /> </p>
 
-- I'm currently working **towards a career transition into Data Field**
+- 🤯🤯 I'm currently working **towards a career transition into the Data Field**
 
-- 🌱 I’m currently learning **Python and Machine Learning and**
+- 🌱 I’m currently learning **Python and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Data Projects**
 
