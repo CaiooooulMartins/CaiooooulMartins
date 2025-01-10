@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Data Projects**
 
-- 💬 Ask me about **Power BI, Excell and Python**
+- 💬 Ask me about **Power BI, Excel and Python**
 
 - 📫 How to reach me **caiomartinslourenco@gmail.com**
 
